@@ -23,4 +23,4 @@ HTML5 • CSS3 • JavaScript
 (Add link here)
 
 ## 👨‍💻 Author
-Omkar Rohidas Ghare
+Mauli Gaikwad.
